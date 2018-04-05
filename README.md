@@ -1,6 +1,6 @@
 # RFID-Limiter
 
-> An Arduino UNO based project for limiting and logging the RFID scan limit
+> An Arduino UNO based project for limiting and logging the RFID tag scan limit
 
 **These are the codes written for following hardware components interfaced to Arduino UNO**
 
